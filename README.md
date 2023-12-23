@@ -6,4 +6,6 @@ Ogrenciler icin kurulmus olan bir web egitim platformudur
 
 HTML, CSS yaninda <a href="https://getbootstrap.com/"> BS</a> de kullanildi
 
-![](ekran2.gif)# udemig-college
+![](ekran2.gif)
+
+# udemig-college
